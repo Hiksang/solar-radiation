@@ -1,12 +1,12 @@
-# SERC
+# solar-radiation
 
 ---
 
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/solar-radiation.git
-cd SERC
+git clone https://github.com/Hiksang/solar-radiation.git
+cd solar-radiation
 poetry install
 ```
 
@@ -14,6 +14,10 @@ If you don't have Poetry:
 
 ```bash
 pip install poetry
+```
+
+```bash
+pip install solar-radiation
 ```
 
 ---
